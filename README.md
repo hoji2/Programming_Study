@@ -38,6 +38,6 @@
 
 - 내용 : Vue 기초 학습
 
-- 강의 : <a href="https://www.youtube.com/user/fkkmemi"> [memi dev님] Vue학습강의</a>
+- 강의 : <a href="https://www.youtube.com/user/fkkmemi"> [memi dev님] 모던웹 학습강의</a>
 
 - 학습내용 : <a href="https://www.notion.so/Vue-e72d88d5a8dd42078f1300fad744c027">Vue Notion link</a>
