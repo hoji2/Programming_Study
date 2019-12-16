@@ -6,12 +6,12 @@
 
 - 참고강의 : <a href="https://cafe.naver.com/cstudyjava">윤성우 프로그래밍</a>
 
-- 학습내용 : <a href="https://www.notion.so/JAVA-a6203de5006940708e3753977f7fae73">notion</a>
+- 학습내용 : <a href="https://www.notion.so/JAVA-a6203de5006940708e3753977f7fae73">Notion 링크</a>
 
 
 # 2. Spring
 
-### 목차
+### 소개
 
 - 내용 : Spring 전반 학습
 
