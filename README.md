@@ -4,7 +4,7 @@
 
 - 내용 :  Java 기초 문법
 
-- 참고강의 : <a href="https://cafe.naver.com/cstudyjava">윤성우 열혈 JAVA</a>
+- 강의 : <a href="https://cafe.naver.com/cstudyjava">윤성우 열혈 JAVA</a>
 
 - 학습내용 : <a href="https://www.notion.so/JAVA-a6203de5006940708e3753977f7fae73">Notion 링크</a>
 
